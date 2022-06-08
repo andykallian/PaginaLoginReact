@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaginaLoginReact/static/css/main.5965f04b.css",
+    "main.js": "/PaginaLoginReact/static/js/main.c47e903a.js",
+    "index.html": "/PaginaLoginReact/index.html",
+    "main.5965f04b.css.map": "/PaginaLoginReact/static/css/main.5965f04b.css.map",
+    "main.c47e903a.js.map": "/PaginaLoginReact/static/js/main.c47e903a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5965f04b.css",
+    "static/js/main.c47e903a.js"
+  ]
+}
